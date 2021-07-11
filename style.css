@@ -2,7 +2,7 @@ body{
   display: grid;
   place-items: center;
   height: 100px;
-  background-image: url(./images/photo_2021-07-10_15-40-02.jpg);
+  background-image: url("./images/photo_2021-07-10_15-40-02.jpg");
   padding: 0;
   margin: 0;
 }
@@ -15,7 +15,7 @@ body{
 .container{
   height: 510px;
     width: 398px;
-    background-image: url(./images/photo_2021-07-10_15-40-02.jpg);
+    background-image: url("./images/photo_2021-07-10_15-40-02.jpg");
     margin-top: 80px;
     border: 2px solid white;
     border-radius: 3px;
